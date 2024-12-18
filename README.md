@@ -6,4 +6,4 @@ Add your groq api and news api in .env
 
 To run:
 
-  python app.py
+  Node server.js
